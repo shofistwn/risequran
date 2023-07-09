@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "nuxt": "^3.0.0",
+    "postcss": "^8.4.25",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}

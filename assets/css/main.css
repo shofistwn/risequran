@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: "DM Sans", sans-serif;
+  }
+
+  .text-arab {
+    font-family: "Noto Naskh Arabic", serif;
+  }
+}
